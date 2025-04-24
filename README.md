@@ -68,48 +68,74 @@ Operational Feasibility:
 student coordinators.
 
 ● Training requirements are minimal due to the user-friendly interface.
+
 ● Can be adopted across all departments and clubs within the college.
 Economic Feasibility:
+
 ● All technologies used are open-source and free to use.
+
 ● The hosting cost is minimal if using free-tier services or college-hosted servers.
+
 ● Saves recurring administrative costs involved in printing, manual entry, and
 announcements
+
 
 
 
 Design and Test Steps / Criteria for EMS
 3.3 Algorithms
 Algorithm Design Steps:
+
 ● Define the Problem:
+
 ○ The problem is to streamline and automate college event management, including
 registration, scheduling, and feedback collection.
+
 ● Choose the Right Algorithm:
+
 ○ For event registration: Use an efficient sorting algorithm (like MergeSort or
 QuickSort) to order participant data.
+
 ○ For scheduling: Implement a scheduling algorithm that handles resource
 allocation and avoids conflicts (e.g., Greedy Algorithm or Constraint Satisfaction
 Problems).
+
 ● Design the Algorithm:
+
 ○ Event Registration Algorithm:
+
 ■ Allow participants to sign up for events.
+
 ■ Ensure each registration is unique, and confirmation emails are
 automatically sent.
+
 ○ Scheduling Algorithm:
 ■ Create a mechanism to manage event schedules, avoiding resource
 conflicts.
+
 ● Implement the Algorithm:
+
 ○ Write the code to manage user registration, event scheduling, and notifications in
 the backend using Node.js and Express.js.
+
 ● Validate the Algorithm:
+
 ○ Test event registration to ensure users cannot register for multiple overlapping
 events.
+
 ○ Test the schedule algorithm to avoid conflicts (e.g., venue, time clashes).
+
 ○ Ensure the notification system works in real-time.
-Page 15 of 22
+
 ● Optimize the Algorithm:
+
 ○ Optimize for database queries (e.g., prevent excessive queries when fetching
 events or registration data).
+
 ● Document the Algorithm:
+
 ○ Document the event registration flow, scheduling logic, and notification process.
+
 ● Review and Refactor:
+
 ○ Regularly check the efficiency of the algorithms and refactor them as necessary.
