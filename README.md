@@ -3,15 +3,21 @@ A full-featured Event Management System built using the MERN stack (MongoDB, Exp
 
 
 Project Overview / Specifications
+
 The College Event Management System is a full-stack web application developed using the
 MERN Stack - MongoDB, Express.js, React.js, and Node.js. It is designed to help students,
 faculty, and administrators manage events in a college environment.
 Core features of the system include:
 ● Student login/signup
+
 ● Browse and search for events
+
 ● Admin panel to add/update/delete events
+
 ● Image upload for event posters/banners
+
 ● Notification/reminders for upcoming events
+
 This project promotes transparency, improves student engagement, and automates repetitive
 administrative tasks in organizing college events.
 
@@ -21,17 +27,23 @@ Proposed System
 The proposed Event Management System addresses the shortcomings of the existing systems by
 introducing a unified web-based platform built using the MERN stack (MongoDB, Express.js,
 React.js, and Node.js).
+
 Key improvements of the proposed system:
 ● User Authentication: Secure login/signup system for students and admins.
+
 ● Event Management: Admin can create, update, and delete events with images, dates,
 and categories.
+
 ● Student Interaction: Students can register for events directly through the portal.
+
 ● Filtering & Search: Events can be filtered by type (technical, cultural, etc.) or searched
 by keywords.
-Page 10 of 22
+
 ● Real-time Notifications: Reminders and updates for upcoming or updated events.
+
 ● Mobile Compatibility: Fully responsive UI for accessibility on laptops and mobile
 devices.
+
 ● Data Centralization: All event details, registrations, and feedback stored in one place.
 
 
@@ -39,16 +51,22 @@ devices.
 
 
 Feasibility Study
+
 A feasibility study was conducted to assess the viability of the proposed system in terms of
 technical, operational, and economic factors.
 Technical Feasibility:
+
 ● The project uses widely adopted and well-supported technologies (React, Node,
 MongoDB).
+
 ● The development environment is compatible with most college-provided systems.
+
 ● The MERN stack offers scalable and maintainable architecture.
 Operational Feasibility:
+
 ● The system will simplify event registration and reduce the workload of faculty and
 student coordinators.
+
 ● Training requirements are minimal due to the user-friendly interface.
 ● Can be adopted across all departments and clubs within the college.
 Economic Feasibility:
